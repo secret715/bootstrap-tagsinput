@@ -13,8 +13,9 @@ Examples can be found [here](http://bootstrap-tagsinput.github.io/bootstrap-tags
 This project is licensed under MIT.
 
 ## 備註
-本版是修改自 RooCMS/bootstrap4-tagsinput ，共同源頭是 bootstrap-tagsinput/bootstrap-tagsinput 。.
-解決以下bug.
+本版是修改自 RooCMS/bootstrap4-tagsinput ，共同源頭是 bootstrap-tagsinput/bootstrap-tagsinput 。
+
+解決以下bug
 
 1. Input顯示樣式與現今Bootstrap不符(4.3.1)
 2. 輸入時注音會被喀掉一半
